@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Daniel</h1>
 <h3 align="center">👋 Hey there! I'm Harsh Daniel 🎓 Computer Science Engineering Student 🌐 Web Developer 🔍 Exploring the world of code, one project at a time 💻 Passion</h3>
 
-- 🔭 I’m currently working on **Morse Code Generator**
 
-- 🌱 I’m currently learning **JQuery**
+
+
 
 
 <p align="left">
